@@ -5,11 +5,11 @@ import base64
 
 # GitHub credentials
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
-GITHUB_REPO = "NobimusicDemon/cookies"
-FILE_NAME = "cookies.txt"
+GITHUB_REPO = "EsproMusic/cookies"
+FILE_NAME = "example.txt"
 
 # Owner ID (Replace with your Telegram user ID)
-OWNER_ID = 123456789  
+OWNER_ID = 7946657662  
 
 def is_owner(user_id):
     return user_id == OWNER_ID
