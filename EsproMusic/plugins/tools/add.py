@@ -5,7 +5,7 @@ import base64
 from EsproMusic import app
 
 # GitHub credentials
-GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
+GITHUB_TOKEN = "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"
 GITHUB_REPO = "EsproMusic/cookies"
 FILE_NAME = "example.txt"
 
