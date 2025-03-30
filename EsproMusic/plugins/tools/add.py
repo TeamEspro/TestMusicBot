@@ -2,6 +2,7 @@ from pyrogram import Client, filters
 import requests
 import os
 import base64
+from EsproMusic import app
 
 # GitHub credentials
 GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
